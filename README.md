@@ -2,6 +2,13 @@
 Yan Zhang, Shijie Lin, Hao Li, Jialin Zhao, Yuqian Fu, Bingde Liu, Wen Yang and Yu Lei
 
 Multi-modal dataset ERTD
-you can get dataset  [here](https://mega.nz/fm/kUMUDQIa)
-## Equipment and Some examples of the dataset
+## Equipment and Some Examples of The Dataset
 ![Alt text](https://github.com/ZyAndrew/ERTD/blob/master/images/figure1.png)
+## Download
+Multi-modal dataset for object detection [download](https://mega.nz/fm/JZFkjAyB)
+Multi-modal dataset for object detection [download](https://mega.nz/fm/JZFkjAyB)
+Raw event data at daytime[download](https://mega.nz/fm/JZFkjAyB)
+Raw event data at nighttime[download](https://mega.nz/fm/JZFkjAyB)
+
+##About the data
+1.
