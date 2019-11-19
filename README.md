@@ -2,6 +2,6 @@
 Yan Zhang, Shijie Lin, Hao Li, Jialin Zhao, Yuqian Fu, Bingde Liu, Wen Yang and Yu Lei
 
 Multi-modal dataset ERTD
-U can get dataset at https://mega.nz/fm/kUMUDQIa
+you can get dataset  [here](https://mega.nz/fm/kUMUDQIa)
 ## Equipment and Some examples of the dataset
 [!image text](https://github.com/ZyAndrew/ERTD/blob/master/images/figure1.png)
