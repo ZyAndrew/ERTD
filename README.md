@@ -11,7 +11,10 @@ Yan Zhang, Shijie Lin, Hao Li, Jialin Zhao, Yuqian Fu, Bingde Liu, Wen Yang and 
 ## Attribution of our dataset
 <img src="images/figure2.png" width="800" hegiht="600" align=center />
 
-A.The time span of first row is 35ms, the second row is 111 ms B.The distribution of objects in the object detection dataset C.The distribution of instances in the instance segmentation dataset D.Labeled images in the instance segmentation dataset
+- A.The time span of first row is 35ms, the second row is 111 ms 
+- B.The distribution of objects in the object detection dataset 
+- C.The distribution of instances in the instance segmentation dataset 
+- D.Labeled images in the instance segmentation dataset
 
 ## Download
 We have uploaded annotated images, labels and raw event data to cloud sever, users can download data by clicking the following Mega sharing links.
