@@ -3,9 +3,12 @@ Yan Zhang, Shijie Lin, Hao Li, Jialin Zhao, Yuqian Fu, Bingde Liu, Wen Yang and 
 ## Equipment and Some Examples of The Dataset
 <img src="images/figure1.png" width="800" hegiht="600" align=center />
 
+A.Three different sensors and a minicomputer on the rig B.The rig mounted on the roof of the car C.Some of the images in the multi-modal dataset, the first row are RGB images, the second row are thermal images, the third raw are images reconstructed from event data D.Distribution of events, the red spots denote events with polarity 1, the blue spots denote 0.
+
 ## Attribution of our dataset
 <img src="images/figure2.png" width="800" hegiht="600" align=center />
-\textbf{(A)}~Three different sensors and a minicomputer on the rig \textbf{(B)}~The rig mounted on the roof of the car \textbf{(C)}~Some of the images in the multi-modal dataset, the first row are RGB images, the second row are thermal images, the third raw are images reconstructed from event data \textbf{(D)}~Distribution of events, the red spots denote events with polarity 1, the blue spots denote 0.
+
+A.The time span of first row is 35ms, the second row is 111 ms B.The distribution of objects in the object detection dataset C.The distribution of instances in the instance segmentation dataset D.Labeled images in the instance segmentation dataset
 
 ## Download
 We have uploaded annotated images, labels and raw event data to cloud sever, users can download data by clicking the following Mega sharing links.
