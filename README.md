@@ -10,7 +10,7 @@ data | File Size |Cloud Disk Link
 ------------ | -------------| -------------
 Multi-modal dataset for object detection | 2.83  GB |[Mega share link](https://mega.nz/fm/hd0G0Yjb)
 Multi-modal dataset for object detection | 6.41  GB |[Mega share link](https://mega.nz/fm/hd0G0Yjb)
-Raw event data at daytime | 10.40 GB |[Mega share link](https://mega.nz/fm/hd0G0Yjb)
+Raw event data at daytime | 11.21 GB |[Mega share link](https://mega.nz/fm/hd0G0Yjb)
 Raw event data at nighttime | 6.94  GB |[Mega share link](https://mega.nz/fm/hd0G0Yjb)
 ## About the data
 1.
