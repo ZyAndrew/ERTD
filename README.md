@@ -32,4 +32,4 @@ Timestamps| 551 KB|[Mega share link](https://mega.nz/#!Z591CK6Z!Uyumhg5gaPMYFjDa
 
 2.We use the label tool Labelme to annotate instance segmentation dataset, then we transfer labels we get to the format that used in COCO dataset.
 
-3.The file ``timestamps'' record that each event image reconstructed from which event data as well as the timestamps of rgb images and thermal images.
+3.The file ``Timestamps'' record that each event image reconstructed from which event data as well as the timestamps of rgb images and thermal images.
