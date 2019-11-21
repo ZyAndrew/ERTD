@@ -10,8 +10,8 @@ Yan Zhang, Shijie Lin, Hao Li, Jialin Zhao, Yuqian Fu, Bingde Liu, Wen Yang and 
 
 ## Attribution of our dataset
 <img src="images/figure2.png" width="800" hegiht="600" align=center />
-
-- A.The time span of first row is 35ms, the second row is 111 ms 
+We use a label tool named Labelme to annotate instance segmentation dataset, then we transfer labels we get to the format that used in COCO dataset.We use a label tool named Labelme to annotate instance segmentation dataset, then we transfer labels we get to the format that used in COCO dataset.
+- A.The time span of first row is 35ms, the secoTo help readers better use these data, we an additional tag ``id'' for each object, and the same object in images of three modalities has the same idnd row is 111 ms 
 - B.The distribution of objects in the object detection dataset 
 - C.The distribution of instances in the instance segmentation dataset 
 - D.Labeled images in the instance segmentation dataset
@@ -28,4 +28,8 @@ Raw event data at daytime | 11.21 GB |[Mega share link](https://mega.nz/#!QN0jWA
 Raw event data at nighttime | 9.43  GB |[Mega share link](https://mega.nz/#!8ktzhSRT!IsfInLvgZJBh9y3CYY6LPUCr73ScE9fnM1lGqpz1eU8)
 Timestamps| 551 KB|[Mega share link](https://mega.nz/#!Z591CK6Z!Uyumhg5gaPMYFjDazbCeLEQLeUAi-RM9Y5wgGGYGN40)
 ## About the data
-1.
+1.To help readers better use these data, we an additional tag ``id'' for each object, and the same object in images of three modalities has the same id.
+
+2.We use the label tool Labelme to annotate instance segmentation dataset, then we transfer labels we get to the format that used in COCO dataset.
+
+3.The file ``timestamps'' record that each event image reconstructed from which event data as well as the timestamps of rgb images and thermal images.
