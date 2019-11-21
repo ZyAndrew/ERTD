@@ -1,7 +1,7 @@
 # ERTD: An Event-RGB-Thermal Dataset for Object Detection and Instance Segmentation
 Yan Zhang, Shijie Lin, Hao Li, Jialin Zhao, Yuqian Fu, Bingde Liu, Wen Yang and Lei Yu
 ## Equipment and Some Examples of The Dataset
-![Alt text](https://github.com/ZyAndrew/ERTD/blob/master/images/figure1.png)
+<img src="images/figure1.png" width="400" hegiht="213" align=center />
 ## Download
 We have uploaded annotated images, labels and raw event data to cloud sever, users can download data by clicking the following Mega sharing links.
 
