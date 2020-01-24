@@ -24,7 +24,7 @@ data | File Size |Cloud Disk Link
 ------------ | -------------| -------------
 Multi-modal dataset for object detection | 3.33  GB |[Mega share link](https://mega.nz/#!dF10QYCA!9GheHo856EHg6sCHZaunp0qE7Rlk4RY-2aBAmOTBTS0)
 Multi-modal dataset for instance segmentation | 550.7  MB |[Mega share link](https://mega.nz/#!Mo1zSQhB!6goY8dhxHGLsK73WLLso5YvztM4QBeInag9V4DblWOs)
-Raw event data at daytime | 11.21 GB |[Mega share link](https://mega.nz/#!JU1kVaBT!KM9hsN1HEgDERDLjK6o21W0PDfDaQmvEr_MBUTUMeGo)
+Raw event data at daytime | 10.91 GB |[Mega share link](https://mega.nz/#!JU1kVaBT!KM9hsN1HEgDERDLjK6o21W0PDfDaQmvEr_MBUTUMeGo)
 Raw event data at nighttime | 9.43  GB |[Mega share link](https://mega.nz/#!tx0AAC4T!lrhvZbQOgNxP6gVaUNrZQVrD0WtXLNpUGQ2wlZ3SXzI)
 Timestamps| 551 KB|[Mega share link](https://mega.nz/#!Z591CK6Z!Uyumhg5gaPMYFjDazbCeLEQLeUAi-RM9Y5wgGGYGN40)
 Calibration results | 11 kB |[Mega share link](https://mega.nz/#!4kk2UIJS!oADCHhnQi8BFF6bouN5-QbyB2pbvph9epB3BwOO-qzk)
